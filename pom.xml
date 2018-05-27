@@ -54,7 +54,7 @@
     </plugins>
   </build>
 
-  <depefndencies>
+  <dependencies>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
@@ -63,5 +63,7 @@
     </dependency>
   </dependencies>
 </project>
+
+<!-- Change something to try out jgitflow .... -->
 
 
