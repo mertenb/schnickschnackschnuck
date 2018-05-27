@@ -45,7 +45,8 @@
             <configuration>
                 <enableFeatureVersions>true</enableFeatureVersions>
                 <flowInitContext>
-                <featureBranchPrefix>f/</featureBranchPrefix>
+                <!--  featureBranchPrefix>f/</featureBranchPrefix>
+                -->
                 </flowInitContext>
             </configuration>
         </plugin>
